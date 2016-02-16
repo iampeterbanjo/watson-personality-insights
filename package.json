@@ -1,0 +1,29 @@
+{
+  "name": "watson-personality-insights",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "index.js",
+  "dependencies": {
+    "watson-developer-cloud": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iampeterbanjo/watson-personality-insights.git"
+  },
+  "keywords": [
+    "watson",
+    "personality",
+    "insights",
+    "demo"
+  ],
+  "author": "peterbanjo@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iampeterbanjo/watson-personality-insights/issues"
+  },
+  "homepage": "https://github.com/iampeterbanjo/watson-personality-insights#readme"
+}
